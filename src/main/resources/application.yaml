@@ -1,0 +1,8 @@
+Spring :
+  datasource :
+    url: jdbc:mysql://localhost/employee
+    username: root
+    password: Ram@i2it
+  jpa:
+    hibernate:
+      ddl-auto: update
